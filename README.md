@@ -8,3 +8,7 @@ This project dives into exploratory data analysis (EDA) to uncover patterns in m
   
 ### REPORT
 - For the full insight analyzed and report, please find here: https://github.com/SueTan309/Spotify-Data-Analysis/blob/master/SPOTIFY%20DATA%20ANALYSIS%20Report%20.pdf
+
+
+## CONTACT
+If you have any questions regarding this projects, please feel free to email me at mkhanh545@gmail.com.
