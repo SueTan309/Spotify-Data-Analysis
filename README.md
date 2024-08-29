@@ -11,4 +11,4 @@ This project dives into exploratory data analysis (EDA) to uncover patterns in m
 
 
 ## CONTACT
-If you have any questions regarding this projects, please feel free to email me at mkhanh545@gmail.com.
+If you have any questions regarding this projects, please feel free to email me at sue.tan309@gmail.com
